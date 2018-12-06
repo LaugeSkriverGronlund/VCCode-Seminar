@@ -57,5 +57,5 @@ page 50100 "Seminar Setup"
     end;
 
     var
-        myInt: Integer;
+    
 }
